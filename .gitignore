@@ -58,3 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Assets/AzureSpatialAnchors.SDK/Resources.meta
+Assets/AzureSpatialAnchors.SDK/Resources/SpatialAnchorConfig.asset
+Assets/AzureSpatialAnchors.SDK/Resources/SpatialAnchorConfig.asset.meta
